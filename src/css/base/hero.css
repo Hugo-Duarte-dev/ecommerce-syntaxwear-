@@ -3,6 +3,7 @@
     background-size: cover;
     position: relative;
     height: 500px;
+    border-radius: 20px;
 }
 
 .hero-overlay{
@@ -29,4 +30,9 @@
 .hero-content .hero-subtitle{
     font-size: 1.25rem;
     font-weight: 400;
+}
+.cta-group{
+    display: flex;
+    gap: 12px;
+    
 }
